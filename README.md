@@ -2,16 +2,17 @@
 
 ### Project Title: Microsoft Excel Functions.
 
-[Functions in Excel](#functions-iin-excel)
+[Functions in Excel](#functions-in-excel)
 
-Summarization
+[Summarization](#summarization)
 
-Tools Used
+[Tools Used](#tools-used)
 
-Data Cleaning and Preparations
+[Data Cleaning and Preparations](#data-cleaning-and-preparations)
 
-Data Analysis
-DATA VISUALIZATION
+[Data Analysis](#data-analysis)
+
+[DATA VISUALIZATION](data-visualization)
 
 
 ### Functions in Excel
