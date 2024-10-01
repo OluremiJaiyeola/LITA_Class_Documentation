@@ -2,6 +2,18 @@
 
 ### Project Title: Microsoft Excel Functions.
 
+[Functions in Excel](#functions-iin-excel)
+
+Summarization
+
+Tools Used
+
+Data Cleaning and Preparations
+
+Data Analysis
+DATA VISUALIZATION
+
+
 ### Functions in Excel
 ---
 Functions in Excel are numerous. It is not necessary to know all of them. There are about 50-60 functions that should be known to help you in the Data Analysis journey. To see all the functions in Excel, go to Formula and you will see all the functions within the group.
@@ -34,3 +46,16 @@ Summarization in Excel means analyzing a Data set. The first thing to do when yo
 SEELECT * FROM TABLE1
 WHERE CONDITION = TRUE
 ```
+### DATA VISUALIZATION
+
+😄
+
+🚸
+
+🚑
+
+|Heading 1|Heading 2|Heading 3|
+|--------|--------|--------|
+|Table 1|Table 2|Table 3|
+
+
