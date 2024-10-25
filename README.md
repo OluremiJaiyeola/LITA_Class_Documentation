@@ -14,7 +14,7 @@
 
 [Data Analysis](#data-analysis)
 
-[DATA VISUALIZATION](data-visualization)
+[Data visualization](data-visualization)
 
 
 ### Project Overview.
