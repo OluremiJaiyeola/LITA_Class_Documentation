@@ -2,9 +2,11 @@
 
 ### Project Title: Microsoft Excel Functions.
 
-[Functions in Excel](#functions-in-excel)
+[Project Overview](#project-overview)
 
-[Summarization](#summarization)
+[Description of Dataset](#description-of-dataset)
+
+[Exploratory Data Analysis](#exploratory-data-analysis)
 
 [Tools Used](#tools-used)
 
@@ -35,9 +37,7 @@ The following insights will be drawn from the dataset.
 
 4. Product Analysis: Analyze product popularity, pricing strategies and product lifecycle.
 
-### Functions in Excel
----
-Functions in Excel are numerous. It is not necessary to know all of them. There are about 50-60 functions that should be known to help you in the Data Analysis journey. To see all the functions in Excel, go to Formula and you will see all the functions within the group.
+
 
 
 ### Tools Used
@@ -74,18 +74,9 @@ WHERE CONDITION = TRUE
 ![Revenue by Region](https://github.com/user-attachments/assets/aa82bd45-0cde-4a69-baa1-fb77808e304f)
 
 
-
-
-
-
-
-
-
-
-
-
-
 ![Revenue by unit sold](https://github.com/user-attachments/assets/a2adf8b7-0453-483c-b370-56c36bddbaf1)
+
+
 
 
 |Heading 1|Heading 2|Heading 3|
