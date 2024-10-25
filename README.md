@@ -17,11 +17,11 @@
 [DATA VISUALIZATION](data-visualization)
 
 
-### Project Overview
+### Project Overview.
 ---
 This project aims to generate insights into the sales performance of the organization over a the past years by analyzing the various parameters in the data received. This will enable us tell compelling stories around the dataset received and to tell the best performance of our dataset. the aim is also to gain valuable insights into sales ans identify trends by conducting comprehensive analysis of the dataset.
 
-### Description of Dataset
+### Description of Dataset.
 ---
 This data fields collectively provides information about sales transactions thereby enabling the analysis of sales performance, trends, and patterns accross different regions, markets, stores, product and periods.
 
@@ -40,7 +40,7 @@ The following insights will be drawn from the dataset.
 
 
 
-### Tools Used
+### Tools Used.
 ---
 -  Mcrosoft Excel [Download Here](https://www.microsoft.com)
     1. For Data Cleaning : This is the removal of all the unwanted attachments from the data, cleans it before presenting it.
@@ -53,7 +53,7 @@ The following insights will be drawn from the dataset.
 
 - GitHub for Portfolio Building
 
-### Data Cleaning and Preparations
+### Data Cleaning and Preparations.
 ---
  In the initial phase of Data Cleaning and Preparations, we perform the following actions;
   1. Data Loading and Inspection : To have a general overview of the data.
@@ -68,7 +68,7 @@ The following insights will be drawn from the dataset.
 SEELECT * FROM TABLE1
 WHERE CONDITION = TRUE
 ```
-### DATA VISUALIZATION
+### Data Visualization.
 
 
 ![Revenue by Region](https://github.com/user-attachments/assets/aa82bd45-0cde-4a69-baa1-fb77808e304f)
