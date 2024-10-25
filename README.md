@@ -19,7 +19,9 @@
 
 This project aims to generate insights into the sales performance of the organization over a the past years by analyzing the various parameters in the data received. This will enable us tell compelling stories around the dataset received and to tell the best performance of our dataset. the aim is also to gain valuable insights into sales ans identify trends by conducting comprehensive analysis of the dataset.
 
+### Description of Dataset
 
+This data fields collectively provides information about sales transactions thereby enabling the analysis of sales performance, trends, and patterns accross different regions, markets, stores, product and periods.
 ### Functions in Excel
 ---
 Functions in Excel are numerous. It is not necessary to know all of them. There are about 50-60 functions that should be known to help you in the Data Analysis journey. To see all the functions in Excel, go to Formula and you will see all the functions within the group.
