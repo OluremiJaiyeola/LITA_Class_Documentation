@@ -15,15 +15,15 @@
 [DATA VISUALIZATION](data-visualization)
 
 
-###Project Overview
-
+### Project Overview
+---
 This project aims to generate insights into the sales performance of the organization over a the past years by analyzing the various parameters in the data received. This will enable us tell compelling stories around the dataset received and to tell the best performance of our dataset. the aim is also to gain valuable insights into sales ans identify trends by conducting comprehensive analysis of the dataset.
 
 ### Description of Dataset
-
+---
 This data fields collectively provides information about sales transactions thereby enabling the analysis of sales performance, trends, and patterns accross different regions, markets, stores, product and periods.
 
-### Exloratory Data Analysis.
+### Exploratory Data Analysis.
 ---
 The following insights will be drawn from the dataset.
    
@@ -33,35 +33,32 @@ The following insights will be drawn from the dataset.
 
 3. Sales Representative Analysis: Assess performance of each sales representative and identify areas of improvement.
 
-4. Product Analysis: aAnalyze product popularity, pricing strategies and product lifecycle.
-
-
-   
-
+4. Product Analysis: Analyze product popularity, pricing strategies and product lifecycle.
 
 ### Functions in Excel
 ---
 Functions in Excel are numerous. It is not necessary to know all of them. There are about 50-60 functions that should be known to help you in the Data Analysis journey. To see all the functions in Excel, go to Formula and you will see all the functions within the group.
 
-### Summarization
----
-Summarization in Excel means analyzing a Data set. The first thing to do when you start computing on Excel is an equality sign =. 
 
 ### Tools Used
 ---
-- Mcrosoft Excel [Download Here](https://www.microsoft.com)
-    1. For Data Cleaning
-    2. For Data Analysis
-    3. For Data Visualization
+-  Mcrosoft Excel [Download Here](https://www.microsoft.com)
+    1. For Data Cleaning : This is the removal of all the unwanted attachments from the data, cleans it before presenting it.
+   
+    2. For Data Analysis : This is where you should look critically and think analytically on the expressions and analysis of your data.
+   
+    3. For Data Visualization: This provides necessary context for data to be interpreted and acted upon appropriately.
+
 - SQL - Structured Query Language for Querying of data
+
 - GitHub for Portfolio Building
 
 - ### Data Cleaning and Preparations
-- ---
-- In the initial phase of Data Cleaning and Preparations, we perform the following actions;
-- 1. Data Loading and Inspection : To have a general overview of the data.
+----
+ In the initial phase of Data Cleaning and Preparations, we perform the following actions;
+  1. Data Loading and Inspection : To have a general overview of the data.
   2. Handling missing Variables : Address missing data using appropriate techniques by manual imputation, using the verage of the numerical data and model for the non-numerical data.
-  3. Data Cleaning and Formatting
+  3. Data Cleaning and Formatting : Ensures dsta consistency and formatting by grouping them into the appropriate categories.
  
   ### Data Analysis
   ---
