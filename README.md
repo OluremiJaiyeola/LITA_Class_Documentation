@@ -22,6 +22,23 @@ This project aims to generate insights into the sales performance of the organiz
 ### Description of Dataset
 
 This data fields collectively provides information about sales transactions thereby enabling the analysis of sales performance, trends, and patterns accross different regions, markets, stores, product and periods.
+
+### Exloratory Data Analysis.
+---
+The following insights will be drawn from the dataset.
+   
+1. Sales Performance Analysis : Evaluate overall sales trends, identify top selling products and assess the performance of different sales channels.
+
+2. Regional Analysis: Compare sales performance accross different regions or geographical areas.
+
+3. Sales Representative Analysis: Assess performance of each sales representative and identify areas of improvement.
+
+4. Product Analysis: aAnalyze product popularity, pricing strategies and product lifecycle.
+
+
+   
+
+
 ### Functions in Excel
 ---
 Functions in Excel are numerous. It is not necessary to know all of them. There are about 50-60 functions that should be known to help you in the Data Analysis journey. To see all the functions in Excel, go to Formula and you will see all the functions within the group.
@@ -42,8 +59,8 @@ Summarization in Excel means analyzing a Data set. The first thing to do when yo
 - ### Data Cleaning and Preparations
 - ---
 - In the initial phase of Data Cleaning and Preparations, we perform the following actions;
-- 1. Data Loading and Inspection
-  2. Handling missing Variables
+- 1. Data Loading and Inspection : To have a general overview of the data.
+  2. Handling missing Variables : Address missing data using appropriate techniques by manual imputation, using the verage of the numerical data and model for the non-numerical data.
   3. Data Cleaning and Formatting
  
   ### Data Analysis
