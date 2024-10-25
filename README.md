@@ -76,6 +76,12 @@ WHERE CONDITION = TRUE
 
 🚑
 
+
+![Revenue by Region](https://github.com/user-attachments/assets/aa82bd45-0cde-4a69-baa1-fb77808e304f)
+
+![Revenue by unit sold](https://github.com/user-attachments/assets/a2adf8b7-0453-483c-b370-56c36bddbaf1)
+
+
 |Heading 1|Heading 2|Heading 3|
 |--------|--------|--------|
 |Table 1|Table 2|Table 3|
