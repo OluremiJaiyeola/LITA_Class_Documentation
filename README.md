@@ -49,18 +49,18 @@ Functions in Excel are numerous. It is not necessary to know all of them. There 
    
     3. For Data Visualization: This provides necessary context for data to be interpreted and acted upon appropriately.
 
-- SQL - Structured Query Language for Querying of data
+- SQL - Structured Query Language for Querying of data [Download Here](http://www.microsoft.com)
 
 - GitHub for Portfolio Building
 
-- ### Data Cleaning and Preparations
-----
+### Data Cleaning and Preparations
+---
  In the initial phase of Data Cleaning and Preparations, we perform the following actions;
   1. Data Loading and Inspection : To have a general overview of the data.
   2. Handling missing Variables : Address missing data using appropriate techniques by manual imputation, using the verage of the numerical data and model for the non-numerical data.
   3. Data Cleaning and Formatting : Ensures dsta consistency and formatting by grouping them into the appropriate categories.
  
-  ### Data Analysis
+ ### Data Analysis
   ---
   This is where we include some basic lines or queries or even some of the DAX expression used during your analysis;
 
