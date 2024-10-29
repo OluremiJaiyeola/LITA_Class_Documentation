@@ -4,7 +4,7 @@
 
 [Project Overview](#project-overview)
 
-[Data Sources] (#data-sources)
+[Data Sources](#data-sources)
 
 [Description of Dataset](#description-of-dataset)
 
@@ -80,11 +80,6 @@ The following insights will be drawn from the dataset.
     8. Highest selling product by total sales value.
     9. Total Revenue by Region.
     
-
-```SQL
-SEELECT * FROM TABLE1
-WHERE CONDITION = TRUE
-```
 ### Data Visualization.
 
 
@@ -96,8 +91,5 @@ WHERE CONDITION = TRUE
 
 
 
-|Heading 1|Heading 2|Heading 3|
-|--------|--------|--------|
-|Table 1|Table 2|Table 3|
 
 
