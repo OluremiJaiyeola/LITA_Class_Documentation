@@ -69,7 +69,7 @@ The following insights will be drawn from the dataset.
  
  ### Data Analysis
   ---
-  This is where we include some basic lines or queries or even some of the DAX expression used during your analysis. It involves answering some basic questions needed for effective analysis.
+  This is where we include some basic lines or queries or even some of the DAX expression used during your analysis. It involves answering some basic questions needed for effective analysis;
     1. Total sales for each product category.
     2. Number of sales transaction in each region.
     3. Products with no sale in the last quater.
