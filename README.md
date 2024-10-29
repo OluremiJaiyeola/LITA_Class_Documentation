@@ -70,15 +70,15 @@ The following insights will be drawn from the dataset.
  ### Data Analysis
   ---
   This is where we include some basic lines or queries or even some of the DAX expression used during your analysis. It involves answering some basic questions needed for effective analysis;
-    1. Total sales for each product category.
-    2. Number of sales transaction in each region.
-    3. Products with no sale in the last quater.
-    4. Monthly total sales for the current year.
-    5. Top 5 customers by total purchase amount.
-    6. Total Revenue per unit sold.
-    7. Percentage of total sales contributed by each region.
-    8. Highest selling product by total sales value.
-    9. Total Revenue by Region.
+  1. Total sales for each product category.
+  2. Number of sales transaction in each region.
+  3. Products with no sale in the last quater.
+  4. Monthly total sales for the current year.
+  5. Top 5 customers by total purchase amount.
+  6. Total Revenue per unit sold.
+  7. Percentage of total sales contributed by each region.
+  8. Highest selling product by total sales value.
+  9. Total Revenue by Region.
     
 ### Data Visualization.
 
