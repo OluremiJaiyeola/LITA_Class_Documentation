@@ -54,7 +54,7 @@ The following insights will be drawn from the dataset.
    
     3. For Data Visualization: This provides necessary context for data to be interpreted and acted upon appropriately.
 
-- SQL - Structured Query Language for Querying of data [Download Here](http://www.microsoft.com)
+- SQL - Structured Query Language for Querying of data.
 
 - Microsoft Power BI for Data Visualization  [Download Here](http://www.microsoft.com)
 
