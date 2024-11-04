@@ -88,6 +88,10 @@ The following insights will be drawn from the dataset.
 
 ![Revenue by unit sold](https://github.com/user-attachments/assets/a2adf8b7-0453-483c-b370-56c36bddbaf1)
 
+![Attrition count](https://github.com/user-attachments/assets/c3a0b1ee-e728-496f-9a10-2bed0b2adf58)
+
+![Attrition count 2](https://github.com/user-attachments/assets/207c42c2-df12-42cf-99be-d8c3042fdd35)
+
 
 
 
